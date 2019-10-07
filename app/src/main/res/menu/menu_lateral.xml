@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Fornecedor"
+            android:icon="@drawable/ic_adicionar_black"
+            android:title="Fornecedores"
+            ></item>
+        <item
+            android:id="@+id/Produto"
+            android:icon="@drawable/ic_adicionar_black"
+            android:title="Produtos"
+            ></item>
+        <item
+            android:id="@+id/Entrada"
+            android:icon="@drawable/ic_adicionar_black"
+            android:title="Entrada de Produto"
+            ></item>
+        <item
+            android:id="@+id/Sair"
+            android:icon="@drawable/ic_adicionar_black"
+            android:title="Sair"
+            ></item>
+
+    </group>
+
+</menu>
